@@ -1,18 +1,14 @@
-## EasyJob
+<h2>EasyJob - Job Finder Platform</h2>
+<p><strong>Graduation Project (Frontend Team Leader)</strong></p>
+<p>EasyJob is a platform built to streamline the connection between job seekers, employers, and freelancers. It simplifies the hiring process while offering powerful tools for each type of user.</p>
 
-EasyJob is a comprehensive platform designed to connect job seekers, employers, and freelancers, streamlining the job search process and facilitating meaningful connections in the professional world. By providing a user-friendly interface and powerful features, EasyJob aims to make finding employment opportunities and freelance projects effortless and efficient.
-
-![Sample Amazing Photo](https://s39940.pcdn.co/wp-content/uploads/2021/11/job-search-myths-bust.jpg)
-
-
-## Features
-
-- **Job Seeker Portal:** EasyJob offers a vast database of job listings across various industries, enabling job seekers to easily search and apply for positions that match their qualifications and interests. The intuitive search functionality and advanced filtering options ensure a seamless job search experience.
-
-- **Employer Portal:** Companies can create profiles on EasyJob, showcasing their brand, company culture, and available job opportunities. Employers have the ability to manage job postings, review applications, and connect with qualified candidates.
-
-- **Freelancer Marketplace:** EasyJob provides a dedicated space for freelancers to present their skills, experience, and portfolios. Freelancers can explore project opportunities posted by businesses and connect directly with clients seeking their expertise.
-
-- **User-Friendly Interface:** Our platform prioritizes a seamless user experience, with a clean and intuitive interface that caters to users of all technical backgrounds. EasyJob ensures that job seekers, employers, and freelancers can navigate the platform effortlessly, maximizing their chances of success.
-
-  
+<h3>Key Features</h3>
+<ul>
+  <li><strong>Job Seeker Portal:</strong> Search and apply for jobs using advanced filters.</li>
+  <li><strong>Employer Portal:</strong> Post job listings, manage applications, and connect with talent.</li>
+  <li><strong>Freelancer Marketplace:</strong> Showcase your skills, explore projects, and connect with clients.</li>
+  <li>User-friendly design for a smooth and intuitive experience.</li>
+  <li>Customizable profiles for both employers and employees.</li>
+  <li>Interactive map to discover nearby job opportunities.</li>
+  <li>Job notifications via WhatsApp and Gmail.</li>
+</ul>
