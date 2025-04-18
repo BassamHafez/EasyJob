@@ -2,6 +2,9 @@
 <p><strong>Graduation Project (Frontend Team Leader)</strong></p>
 <p>EasyJob is a platform built to streamline the connection between job seekers, employers, and freelancers. It simplifies the hiring process while offering powerful tools for each type of user.</p>
 
+<h3>Tools<h3/>
+<p>React Js, Leaflet, Redux Toolkit, React Bootstrap, Css, Html, Node Js, mySQL</p>
+  
 <h3>Key Features</h3>
 <ul>
   <li><strong>Job Seeker Portal:</strong> Search and apply for jobs using advanced filters.</li>
